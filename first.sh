@@ -11,6 +11,7 @@ chmod +x ./pcs/*
 ./pcs/heroku.sh
 ./pcs/nodejs.sh # requires to open new session ->
 ./pcs/redis.sh
+./psc/make.sh
 
 # ----------------- IDE's
 

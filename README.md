@@ -18,6 +18,7 @@
 * Ungit (Git GUI)
 * Angular CLI
 * Redis
+* Make
 
 ### IDE's
 * SublimeText
