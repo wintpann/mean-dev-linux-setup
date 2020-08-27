@@ -17,6 +17,7 @@
 * Heroku CLI
 * Ungit (Git GUI)
 * Angular CLI
+* Redis
 
 ### IDE's
 * SublimeText
