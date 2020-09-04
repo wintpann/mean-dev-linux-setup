@@ -19,6 +19,7 @@
 * Angular CLI
 * Redis
 * Make
+* Netcat
 
 ### IDE's
 * SublimeText
