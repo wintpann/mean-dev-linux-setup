@@ -11,6 +11,7 @@
 * Git
 * MongoDB
 * Compass (MongoDB GUI)
+* Robo 3t (MongoDB GUI)
 * Postman (API development tool)
 * NVM (Node Version Manager)
 * Nodejs
@@ -37,6 +38,7 @@
 * Qt-Transmission
 * Rar
 * VLC
+* Preload
 
 ## How to setup
 

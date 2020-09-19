@@ -32,3 +32,5 @@ chmod +x ./pcs/*
 ./pcs/rar.sh
 ./pcs/slack.sh
 ./pcs/vlc.sh
+./pcs/preload.sh
+./pcs/robo3t.sh
