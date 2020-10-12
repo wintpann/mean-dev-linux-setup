@@ -21,6 +21,7 @@
 * Redis
 * Make
 * Netcat
+* SSH server
 
 ### IDE's
 * SublimeText

@@ -13,6 +13,7 @@ chmod +x ./pcs/*
 ./pcs/redis.sh
 ./pcs/make.sh
 ./pcs/netcat.sh
+./pcs/openssh.sh
 
 # ----------------- IDE's
 
