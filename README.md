@@ -38,6 +38,7 @@
 * Peek (Screen recording tool)
 * Qt-Transmission
 * Rar
+* Virtual box
 * VLC
 * Preload
 

@@ -22,7 +22,7 @@ chmod +x ./pcs/*
 ./pcs/webstorm.sh
 
 # ----------------- other tools
-
+./pcs/virtual-box.sh
 ./pcs/chrome.sh
 ./pcs/gnome-tweaks.sh
 ./pcs/breaktimer.sh
