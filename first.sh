@@ -14,6 +14,7 @@ chmod +x ./pcs/*
 ./pcs/make.sh
 ./pcs/netcat.sh
 ./pcs/openssh.sh
+./pcs/ngrok.sh
 
 # ----------------- IDE's
 

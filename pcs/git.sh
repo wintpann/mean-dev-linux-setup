@@ -19,3 +19,4 @@ git config --global alias.back 'reset --hard'
 git config --global alias.hist "log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short"
 git config --global alias.type 'cat-file -t'
 git config --global alias.dump 'cat-file -p'
+echo 'alias rollback="touch .safe-pop && git add . && git stash save && git stash drop stash@{0}"' | tee -a ~/.bashrc
