@@ -1,4 +1,4 @@
-# MEAN Development Environment Setup For Linux
+# MERN Development Environment Setup For Linux
 
 > Also includes most commot other not-dev apps
 
@@ -16,8 +16,6 @@
 * NVM (Node Version Manager)
 * Nodejs
 * Heroku CLI
-* Ungit (Git GUI)
-* Angular CLI
 * Redis
 * Make
 * Netcat
@@ -26,12 +24,17 @@
 
 ### IDE's
 * SublimeText
-* VSCode
 * Webstorm
+
+### NPM's
+* create-react-app
+* ungit
+* eslint
 
 ### Other tools
 * Chrome
 * Slack
+* Zoom
 * Gnome Tweaks (Additional settings)
 * Breaktimer (Breaks manager)
 * Discord
